@@ -1,0 +1,79 @@
+C:\C#\PracticalWork5\bin\Debug\PracticalWork5.exe.config
+C:\C#\PracticalWork5\bin\Debug\PracticalWork5.exe
+C:\C#\PracticalWork5\bin\Debug\PracticalWork5.pdb
+C:\C#\PracticalWork5\obj\Debug\PracticalWork5.csproj.AssemblyReference.cache
+C:\C#\PracticalWork5\obj\Debug\PracticalWork5.csproj.SuggestedBindingRedirects.cache
+C:\C#\PracticalWork5\obj\Debug\MainPage.g.cs
+C:\C#\PracticalWork5\obj\Debug\MainWindow.g.cs
+C:\C#\PracticalWork5\obj\Debug\SelectPage.g.cs
+C:\C#\PracticalWork5\obj\Debug\App.g.cs
+C:\C#\PracticalWork5\obj\Debug\PracticalWork5_MarkupCompile.cache
+C:\C#\PracticalWork5\obj\Debug\PracticalWork5_MarkupCompile.lref
+C:\C#\PracticalWork5\obj\Debug\MainPage.baml
+C:\C#\PracticalWork5\obj\Debug\MainWindow.baml
+C:\C#\PracticalWork5\obj\Debug\SelectPage.baml
+C:\C#\PracticalWork5\obj\Debug\PracticalWork5.g.resources
+C:\C#\PracticalWork5\obj\Debug\PracticalWork5.Properties.Resources.resources
+C:\C#\PracticalWork5\obj\Debug\PracticalWork5.csproj.GenerateResource.cache
+C:\C#\PracticalWork5\obj\Debug\PracticalWork5.csproj.CoreCompileInputs.cache
+C:\C#\PracticalWork5\obj\Debug\PracticalWork5.exe
+C:\C#\PracticalWork5\obj\Debug\PracticalWork5.pdb
+C:\C#\PracticalWork5\obj\Debug\CalendarItemUserControl.g.cs
+C:\C#\PracticalWork5\obj\Debug\CalendarItemUserControl.baml
+C:\C#\PracticalWork5\obj\Debug\PracticalWork5.Resource1.resources
+C:\C#\PracticalWork5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\C#\PracticalWork5\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\C#\PracticalWork5\bin\Debug\System.Buffers.dll
+C:\C#\PracticalWork5\bin\Debug\System.Memory.dll
+C:\C#\PracticalWork5\bin\Debug\System.Numerics.Vectors.dll
+C:\C#\PracticalWork5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\C#\PracticalWork5\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\C#\PracticalWork5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\C#\PracticalWork5\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\C#\PracticalWork5\bin\Debug\System.Buffers.xml
+C:\C#\PracticalWork5\bin\Debug\System.Memory.xml
+C:\C#\PracticalWork5\bin\Debug\System.Numerics.Vectors.xml
+C:\C#\PracticalWork5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\C#\PracticalWork5\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\C#\PracticalWork5\obj\Debug\PracticalWork5.csproj.CopyComplete
+C:\C#\PracticalWork5\bin\Debug\Newtonsoft.Json.dll
+C:\C#\PracticalWork5\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\obj\Debug\PracticalWork5.csproj.AssemblyReference.cache
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\obj\Debug\CalendarItemUserControl.g.cs
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\obj\Debug\MainPage.g.cs
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\obj\Debug\MainWindow.g.cs
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\obj\Debug\SelectPage.g.cs
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\obj\Debug\App.g.cs
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\obj\Debug\PracticalWork5_MarkupCompile.cache
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\obj\Debug\PracticalWork5_MarkupCompile.lref
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\obj\Debug\CalendarItemUserControl.baml
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\obj\Debug\MainPage.baml
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\obj\Debug\MainWindow.baml
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\obj\Debug\SelectPage.baml
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\obj\Debug\PracticalWork5.g.resources
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\obj\Debug\PracticalWork5.pdb
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\obj\Debug\PracticalWork5.Properties.Resources.resources
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\obj\Debug\PracticalWork5.csproj.GenerateResource.cache
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\bin\Debug\PracticalWork5.exe.config
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\bin\Debug\PracticalWork5.exe
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\bin\Debug\PracticalWork5.pdb
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\bin\Debug\System.Buffers.dll
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\bin\Debug\System.Memory.dll
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\bin\Debug\System.Buffers.xml
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\bin\Debug\System.Memory.xml
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\obj\Debug\PracticalWork5.Resource1.resources
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\obj\Debug\PracticalWork5.csproj.CoreCompileInputs.cache
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\obj\Debug\Practica.D6981D3A.Up2Date
+C:\Users\kogado\Downloads\PracticalWork5-WPF-main (1)\PracticalWork5-WPF-main\obj\Debug\PracticalWork5.exe

@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kogado\\Downloads\\PracticalWork5-WPF-main (1)\\PracticalWork5-WPF-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C2FB5B-4961-4438-B7C5-C31E60F47395}|PracticalWork5.csproj|C:\\Users\\kogado\\Downloads\\PracticalWork5-WPF-main (1)\\PracticalWork5-WPF-main\\files.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C2FB5B-4961-4438-B7C5-C31E60F47395}|PracticalWork5.csproj|solutionrelative:files.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C2FB5B-4961-4438-B7C5-C31E60F47395}|PracticalWork5.csproj|c:\\users\\kogado\\downloads\\practicalwork5-wpf-main (1)\\practicalwork5-wpf-main\\resource1.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C8C2FB5B-4961-4438-B7C5-C31E60F47395}|PracticalWork5.csproj|solutionrelative:resource1.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C2FB5B-4961-4438-B7C5-C31E60F47395}|PracticalWork5.csproj|c:\\users\\kogado\\downloads\\practicalwork5-wpf-main (1)\\practicalwork5-wpf-main\\selectpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C2FB5B-4961-4438-B7C5-C31E60F47395}|PracticalWork5.csproj|solutionrelative:selectpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C2FB5B-4961-4438-B7C5-C31E60F47395}|PracticalWork5.csproj|c:\\users\\kogado\\downloads\\practicalwork5-wpf-main (1)\\practicalwork5-wpf-main\\selectpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8C2FB5B-4961-4438-B7C5-C31E60F47395}|PracticalWork5.csproj|solutionrelative:selectpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C2FB5B-4961-4438-B7C5-C31E60F47395}|PracticalWork5.csproj|c:\\users\\kogado\\downloads\\practicalwork5-wpf-main (1)\\practicalwork5-wpf-main\\resource1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{C8C2FB5B-4961-4438-B7C5-C31E60F47395}|PracticalWork5.csproj|solutionrelative:resource1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C2FB5B-4961-4438-B7C5-C31E60F47395}|PracticalWork5.csproj|c:\\users\\kogado\\downloads\\practicalwork5-wpf-main (1)\\practicalwork5-wpf-main\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C8C2FB5B-4961-4438-B7C5-C31E60F47395}|PracticalWork5.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C2FB5B-4961-4438-B7C5-C31E60F47395}|PracticalWork5.csproj|C:\\Users\\kogado\\Downloads\\PracticalWork5-WPF-main (1)\\PracticalWork5-WPF-main\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C2FB5B-4961-4438-B7C5-C31E60F47395}|PracticalWork5.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C2FB5B-4961-4438-B7C5-C31E60F47395}|PracticalWork5.csproj|c:\\users\\kogado\\downloads\\practicalwork5-wpf-main (1)\\practicalwork5-wpf-main\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8C2FB5B-4961-4438-B7C5-C31E60F47395}|PracticalWork5.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C2FB5B-4961-4438-B7C5-C31E60F47395}|PracticalWork5.csproj|C:\\Users\\kogado\\Downloads\\PracticalWork5-WPF-main (1)\\PracticalWork5-WPF-main\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C2FB5B-4961-4438-B7C5-C31E60F47395}|PracticalWork5.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C2FB5B-4961-4438-B7C5-C31E60F47395}|PracticalWork5.csproj|C:\\Users\\kogado\\Downloads\\PracticalWork5-WPF-main (1)\\PracticalWork5-WPF-main\\calendaritemusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8C2FB5B-4961-4438-B7C5-C31E60F47395}|PracticalWork5.csproj|solutionrelative:calendaritemusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C2FB5B-4961-4438-B7C5-C31E60F47395}|PracticalWork5.csproj|c:\\users\\kogado\\downloads\\practicalwork5-wpf-main (1)\\practicalwork5-wpf-main\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8C2FB5B-4961-4438-B7C5-C31E60F47395}|PracticalWork5.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C2FB5B-4961-4438-B7C5-C31E60F47395}|PracticalWork5.csproj|C:\\Users\\kogado\\Downloads\\PracticalWork5-WPF-main (1)\\PracticalWork5-WPF-main\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C2FB5B-4961-4438-B7C5-C31E60F47395}|PracticalWork5.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C2FB5B-4961-4438-B7C5-C31E60F47395}|PracticalWork5.csproj|C:\\Users\\kogado\\Downloads\\PracticalWork5-WPF-main (1)\\PracticalWork5-WPF-main\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8C2FB5B-4961-4438-B7C5-C31E60F47395}|PracticalWork5.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C2FB5B-4961-4438-B7C5-C31E60F47395}|PracticalWork5.csproj|C:\\Users\\kogado\\Downloads\\PracticalWork5-WPF-main (1)\\PracticalWork5-WPF-main\\calendaritemusercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C2FB5B-4961-4438-B7C5-C31E60F47395}|PracticalWork5.csproj|solutionrelative:calendaritemusercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 442,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resource1.resx",
+              "DocumentMoniker": "C:\\Users\\kogado\\Downloads\\PracticalWork5-WPF-main (1)\\PracticalWork5-WPF-main\\Resource1.resx",
+              "RelativeDocumentMoniker": "Resource1.resx",
+              "ToolTip": "C:\\Users\\kogado\\Downloads\\PracticalWork5-WPF-main (1)\\PracticalWork5-WPF-main\\Resource1.resx",
+              "RelativeToolTip": "Resource1.resx",
+              "ViewState": "AQIAAHsAAAAAAAAAAADwv4AAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-19T10:50:31.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SelectPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kogado\\Downloads\\PracticalWork5-WPF-main (1)\\PracticalWork5-WPF-main\\SelectPage.xaml.cs",
+              "RelativeDocumentMoniker": "SelectPage.xaml.cs",
+              "ToolTip": "C:\\Users\\kogado\\Downloads\\PracticalWork5-WPF-main (1)\\PracticalWork5-WPF-main\\SelectPage.xaml.cs",
+              "RelativeToolTip": "SelectPage.xaml.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAArwEIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:28:16.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SelectPage.xaml",
+              "DocumentMoniker": "C:\\Users\\kogado\\Downloads\\PracticalWork5-WPF-main (1)\\PracticalWork5-WPF-main\\SelectPage.xaml",
+              "RelativeDocumentMoniker": "SelectPage.xaml",
+              "ToolTip": "C:\\Users\\kogado\\Downloads\\PracticalWork5-WPF-main (1)\\PracticalWork5-WPF-main\\SelectPage.xaml",
+              "RelativeToolTip": "SelectPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-19T10:48:45.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Resource1.resx",
+              "DocumentMoniker": "C:\\Users\\kogado\\Downloads\\PracticalWork5-WPF-main (1)\\PracticalWork5-WPF-main\\Resource1.resx",
+              "RelativeDocumentMoniker": "Resource1.resx",
+              "ToolTip": "C:\\Users\\kogado\\Downloads\\PracticalWork5-WPF-main (1)\\PracticalWork5-WPF-main\\Resource1.resx",
+              "RelativeToolTip": "Resource1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-19T10:42:55.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\kogado\\Downloads\\PracticalWork5-WPF-main (1)\\PracticalWork5-WPF-main\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\kogado\\Downloads\\PracticalWork5-WPF-main (1)\\PracticalWork5-WPF-main\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-19T10:42:52.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\kogado\\Downloads\\PracticalWork5-WPF-main (1)\\PracticalWork5-WPF-main\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\kogado\\Downloads\\PracticalWork5-WPF-main (1)\\PracticalWork5-WPF-main\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-19T10:41:30.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\kogado\\Downloads\\PracticalWork5-WPF-main (1)\\PracticalWork5-WPF-main\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\kogado\\Downloads\\PracticalWork5-WPF-main (1)\\PracticalWork5-WPF-main\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-19T10:41:07.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CalendarItemUserControl.xaml",
+              "DocumentMoniker": "C:\\Users\\kogado\\Downloads\\PracticalWork5-WPF-main (1)\\PracticalWork5-WPF-main\\CalendarItemUserControl.xaml",
+              "RelativeDocumentMoniker": "CalendarItemUserControl.xaml",
+              "ToolTip": "C:\\Users\\kogado\\Downloads\\PracticalWork5-WPF-main (1)\\PracticalWork5-WPF-main\\CalendarItemUserControl.xaml",
+              "RelativeToolTip": "CalendarItemUserControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-19T10:28:16.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\kogado\\Downloads\\PracticalWork5-WPF-main (1)\\PracticalWork5-WPF-main\\Item.cs",
+              "RelativeDocumentMoniker": "Item.cs",
+              "ToolTip": "C:\\Users\\kogado\\Downloads\\PracticalWork5-WPF-main (1)\\PracticalWork5-WPF-main\\Item.cs",
+              "RelativeToolTip": "Item.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:28:15.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Files.cs",
+              "DocumentMoniker": "C:\\Users\\kogado\\Downloads\\PracticalWork5-WPF-main (1)\\PracticalWork5-WPF-main\\Files.cs",
+              "RelativeDocumentMoniker": "Files.cs",
+              "ToolTip": "C:\\Users\\kogado\\Downloads\\PracticalWork5-WPF-main (1)\\PracticalWork5-WPF-main\\Files.cs",
+              "RelativeToolTip": "Files.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:28:16.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kogado\\Downloads\\PracticalWork5-WPF-main (1)\\PracticalWork5-WPF-main\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kogado\\Downloads\\PracticalWork5-WPF-main (1)\\PracticalWork5-WPF-main\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABLAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHiSURBVDhPY2SAgpb1Vww4WNh2SguwM7EyMQYL/5I95ujI\u002BAcqjRMwMsTvNAAxfPWF1cwUeKfvvvqBz1GNb7\u002BW4Ocp25ZOffTt2zewQikpKYaAgACQgTccHR3hBrMw/GUsADGO3vok9P7LH66bL76xKIuy2hiJ/pdTVFT8DjLg9\u002B/fYMVv3rz5JCkpWXHs2LELVlZW30FijAwxO8VAjHIvaR0FEc6Vi469FEm3k2CwVeFk\u002BPvjM8O/f/8YXrx4wbBp0yaGHz9\u002B/PPz87vNw8OTCDT0NMglTAxL3F\u002BBsAQf67s/f/7\u002Bq/CUZbBV42HgYmVg4ObmZuDl5WXg4uJi\u002BP//P8O7d\u002B\u002BYgAapPn/\u002BvANopwbIYiYQAQIKrM8YlDleMehJsTBwMv8D2wwDrKysDGJiYgxA5zNwcHAwAb3At2HDBhaQHDNYBRBICAtIvH7\u002BJFZPR4ubhQUuDAZsbGwMMjIyDFpaWgxKSkoMt27devH06dON165dewF3wbNnz8D4zx/MmIO5QFpaGuwKEB8G4AaQC0YNQDIAFLKMjIzgVAeMIpwYJA\u002BKKVhMgBMDCAATyHcmJqYrW7duFQYZhAuAEtjXr19vgdSD\u002BHCV9fX1LMAkKgDMPAS9xc7O/geYsD41Njb\u002BAQB9hMCogeGQ7QAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-06-19T10:28:16.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kogado\\Downloads\\PracticalWork5-WPF-main (1)\\PracticalWork5-WPF-main\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\kogado\\Downloads\\PracticalWork5-WPF-main (1)\\PracticalWork5-WPF-main\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAIwEIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:28:15.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CalendarItemUserControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kogado\\Downloads\\PracticalWork5-WPF-main (1)\\PracticalWork5-WPF-main\\CalendarItemUserControl.xaml.cs",
+              "RelativeDocumentMoniker": "CalendarItemUserControl.xaml.cs",
+              "ToolTip": "C:\\Users\\kogado\\Downloads\\PracticalWork5-WPF-main (1)\\PracticalWork5-WPF-main\\CalendarItemUserControl.xaml.cs",
+              "RelativeToolTip": "CalendarItemUserControl.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAlAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHiSURBVDhPY2SAgpb1Vww4WNh2SguwM7EyMQYL/5I95ujI\u002BAcqjRMwMsTvNAAxfPWF1cwUeKfvvvqBz1GNb7\u002BW4Ocp25ZOffTt2zewQikpKYaAgACQgTccHR3hBrMw/GUsADGO3vok9P7LH66bL76xKIuy2hiJ/pdTVFT8DjLg9\u002B/fYMVv3rz5JCkpWXHs2LELVlZW30FijAwxO8VAjHIvaR0FEc6Vi469FEm3k2CwVeFk\u002BPvjM8O/f/8YXrx4wbBp0yaGHz9\u002B/PPz87vNw8OTCDT0NMglTAxL3F\u002BBsAQf67s/f/7\u002Bq/CUZbBV42HgYmVg4ObmZuDl5WXg4uJi\u002BP//P8O7d\u002B\u002BYgAapPn/\u002BvANopwbIYiYQAQIKrM8YlDleMehJsTBwMv8D2wwDrKysDGJiYgxA5zNwcHAwAb3At2HDBhaQHDNYBRBICAtIvH7\u002BJFZPR4ubhQUuDAZsbGwMMjIyDFpaWgxKSkoMt27devH06dON165dewF3wbNnz8D4zx/MmIO5QFpaGuwKEB8G4AaQC0YNQDIAFLKMjIzgVAeMIpwYJA\u002BKKVhMgBMDCAATyHcmJqYrW7duFQYZhAuAEtjXr19vgdSD\u002BHCV9fX1LMAkKgDMPAS9xc7O/geYsD41Njb\u002BAQB9hMCogeGQ7QAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-06-19T10:28:16.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kogado\\Downloads\\PracticalWork5-WPF-main (1)\\PracticalWork5-WPF-main\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\kogado\\Downloads\\PracticalWork5-WPF-main (1)\\PracticalWork5-WPF-main\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-19T10:28:15.558Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
